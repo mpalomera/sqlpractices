@@ -1,0 +1,6 @@
+Math
+
+1) Review the math operators 
+2) Use the sum function
+3) Use the percentil
+4) Calculate percentages
