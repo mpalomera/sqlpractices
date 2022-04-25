@@ -1,0 +1,6 @@
+-- INDEXES
+
+Data structure (tree, hash)
+nodes correspond to the condition used in the where
+
+the indexes have pointers to the data to fetch them as quickly as possible.
