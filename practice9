@@ -1,0 +1,13 @@
+-- Subquery
+
+-- use subqueries in the where condition 
+-- use subqueries in a from
+-- in a join
+-- as part of the main select as a calculated column
+-- we use subqueries in an where exists ( where in  () )
+-- for lateral subqueries
+-- Common Table expressions, is a temporal table created from a subquery
+
+WITH temporal_table_name (c1,c2,c3 ...)
+as (subquery)
+select 
