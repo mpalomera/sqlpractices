@@ -5,8 +5,9 @@ time: time
 interval
 
 Operations:
+- '2 hours'::interval
 
-Chanllange:
+Challange:
 
 Calculate the lenght of each ride. Sort the query from the longest to the shortest.
 
