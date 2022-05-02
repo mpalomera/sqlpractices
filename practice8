@@ -1,0 +1,12 @@
+-- Correspond to the Chapter 12 Date and time
+
+Date : full date
+time: time 
+interval
+
+Operations:
+
+Chanllange:
+
+Calculate the lenght of each ride. Sort the query from the longest to the shortest.
+
