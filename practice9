@@ -5,6 +5,8 @@
 -- in a join
 -- as part of the main select as a calculated column
 -- we use subqueries in an where exists ( where in  () )
+from outher_table
+where not exists (select id from inner_table where inner_table.id =  outher_table.id),
 -- for lateral subqueries
 -- Common Table expressions, is a temporal table created from a subquery
 
