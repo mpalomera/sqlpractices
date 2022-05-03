@@ -1,0 +1,8 @@
+-- Extensions
+Add capability to sql
+-> To enable 
+  CREATE EXTENSION <extension name>;
+  
+Challange
+Instead of using the office as pivote column use the flavor.
+
